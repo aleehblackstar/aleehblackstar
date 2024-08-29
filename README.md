@@ -1,8 +1,8 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Alexandre Rodrigues</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-Sempre tive interesse em tecnologia e, embora tenha tido contato com ela desde pequeno, só agora decidi seguir essa área como carreira. Aos 32 anos, estou aprendendo as lógicas de programação, iniciando pela linguagem Python e planejando a transição de carreira. Tenho muito a estudar e aprender, portanto: Deseje-me sorte e deixe o esforço e a dedicação comigo! 📚
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
+Sempre tive interesse em tecnologia e, embora tenha tido contato com ela desde pequeno, só agora decidi seguir essa área como carreira. Aos 32 anos, estou aprendendo as lógicas de programação, iniciando pela linguagem Python e planejando a transição de carreira. Tenho muito a estudar e aprender, portanto: Deseje-me sorte e deixe o esforço e a dedicação comigo! 📚
 
 ### 📊 Estatísticas no GitHub
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleehblackstar&show_icons=true&theme=date_night)
