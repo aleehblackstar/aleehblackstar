@@ -17,7 +17,7 @@ Estou em transição de carreira e buscando minha primeira oportunidade como des
 </div>
 
 ## :construction: Projetos em andamento
-Atualmente, estou desenvolvendo um projeto utilizando Python e Django, focado em [descrever brevemente o que o projeto faz]. Fique à vontade para acompanhar o progresso!
+Atualmente, estou desenvolvendo um sistema web de catálogo de carros, utilizando Python, Django e outras tecnologias. Em breve, compartilharei mais detalhes sobre o projeto e seu progresso.
 
 ## :telephone_receiver: Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-rodrigues-9a1050100/)
