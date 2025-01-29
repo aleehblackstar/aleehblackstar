@@ -1,8 +1,10 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Alexandre Rodrigues</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Alexandre Rodrigues!</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-Sempre tive interesse em tecnologia e, embora tenha tido contato com ela desde pequeno, só agora decidi seguir essa área como carreira. Aos 32 anos, estou aprendendo as lógicas de programação, iniciando pela linguagem Python e planejando a transição de carreira. Tenho muito a estudar e aprender, portanto: Deseje-me sorte e deixe o esforço e a dedicação comigo! 📚
+Sempre fui fascinado por tecnologia e, após anos de contato com a área, decidi transformar esse interesse em carreira. Atualmente, estou aprendendo os conceitos básicos para construir uma base sólida. Comecei por lógica de programação com Python e estou explorando o desenvolvimento web com Django.
+
+Estou em transição de carreira e buscando minha primeira oportunidade como desenvolvedor. Meu foco é evoluir constantemente, então vamos conectar e crescer juntos! 🚀
 
 ### 📊 Estatísticas no GitHub
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleehblackstar&show_icons=true&theme=date_night)
@@ -13,6 +15,9 @@ Sempre tive interesse em tecnologia e, embora tenha tido contato com ela desde p
 <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python" /> 
 </div>
+
+## :construction: Projetos em andamento
+Atualmente, estou desenvolvendo um projeto utilizando Python e Django, focado em [descrever brevemente o que o projeto faz]. Fique à vontade para acompanhar o progresso!
 
 ## :telephone_receiver: Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-rodrigues-9a1050100/)
