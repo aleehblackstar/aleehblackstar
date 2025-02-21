@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-Sempre fui fascinado por tecnologia e, após anos de contato com a área, decidi transformar esse interesse em carreira. Atualmente, estou aprendendo os conceitos básicos para construir uma base sólida. Comecei por lógica de programação com Python e estou explorando o desenvolvimento web com Django.
+<p>Sempre fui fascinado por tecnologia e, após anos de contato com a área, decidi transformar esse interesse em carreira. Atualmente, estou aprendendo os conceitos básicos para construir uma base sólida. Comecei por lógica de programação com Python e estou explorando o desenvolvimento web com Django.<a/>
 
-Estou em transição de carreira e buscando minha primeira oportunidade como desenvolvedor. Meu foco é evoluir constantemente, então vamos conectar e crescer juntos! 🚀
+<p>Estou em transição de carreira e buscando minha primeira oportunidade como desenvolvedor. Meu foco é evoluir constantemente, então vamos conectar e crescer juntos! 🚀</p>
 
 ### 📊 Estatísticas no GitHub
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleehblackstar&show_icons=true&theme=date_night)
