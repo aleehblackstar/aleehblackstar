@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-<p>Sempre fui fascinado por tecnologia e, após anos de contato com a área, decidi transformar esse interesse em carreira. Atualmente, estou aprendendo os conceitos básicos para construir uma base sólida. Comecei por lógica de programação com Python e estou explorando o desenvolvimento web com Django.<a/>
+<p>Sempre fui fascinado por tecnologia e, desde que me entendo por gente, tenho curiosidade em saber como as coisas funcionam. Agora, decidi transformar esse interesse em carreira.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas. Estou sempre buscando conteúdos por conta própria, pesquisando bastante e aprendendo os conceitos básicos para construir uma base sólida. Comecei pela lógica de programação com Python e estou explorando o desenvolvimento web com HTML, CSS e JavaScript.<a/>
 
 <p>Estou em transição de carreira e buscando minha primeira oportunidade como desenvolvedor. Meu foco é evoluir constantemente, então vamos conectar e crescer juntos! 🚀</p>
 
